@@ -1,0 +1,1 @@
+App simulando el funcionamiento de un aeropuerto. Devuelve la pista libre para el aterrizaje o despegue de vuelos en caso de que quede alguna, en caso contrario calcula el tiempo restante para que alguna de las pistas se libere.
